@@ -1,6 +1,6 @@
 advise_url = "https://api.adviceslip.com/advice"
-my_api_url = "http://localhost:8080/api/new"
-teacher_api = "http://sf-pyw.mosyag.in/m04/api/forecasts"
+my_api_url = "https://localhost:8080/api/new"
+teacher_api = "https://sf-pyw.mosyag.in/m04/api/forecasts"
 
  $("#header").click( function(){
     
